@@ -1,6 +1,7 @@
 # Locust Course Readme
 
-The main goal of this repository is to show what I learn during the course https://www.udemy.com/course/performance-testing-using-locust/learn/lecture/20253594#overview,
+The main goal of this repository is to show what I learn during the course:
+* https://www.udemy.com/course/performance-testing-using-locust/
 
 ## Installation
 
